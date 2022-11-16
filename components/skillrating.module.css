@@ -1,0 +1,16 @@
+  
+  .card {
+    background-color: #555252;
+    margin: 20px auto;
+    max-width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px #b80e0e;
+    
+  }
+
+  .card__copy {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
