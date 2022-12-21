@@ -21,6 +21,16 @@ export default function Home() {
    
     <div>
     <Head>
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1N3Q1LE25Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1N3Q1LE25Y');
+</script>
+  
     <meta name="description" CONTENT="Landing Gear MRO"/>
     <title>Home</title>
     <meta property='og:title' content="Chandrasekar"/>
