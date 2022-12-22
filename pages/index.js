@@ -22,10 +22,10 @@ export default function Home() {
     <div>
     <Head>
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1N3Q1LE25Y"></script>
-<script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1N3Q1LE25Y" strategy="afterInteractive"/>
+<script id="google-analytics" strategy="afterInteractive">
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)}
+  function gtag(){window.dataLayer.push(arguments)}
   gtag('js', new Date());
 
   gtag('config', 'G-1N3Q1LE25Y');
